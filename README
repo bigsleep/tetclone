@@ -1,0 +1,18 @@
+
+20120127
+
+*概要
+android用の落ちてくるブロックを揃えて並べて消すゲームです。
+
+*FreeType Library
+配布ファイルにはFreeType Libraryのソースが含まれていますが, 
+freetypeの著作権はfreetypeの著作者に帰属します. 
+またfreetypeのライセンスはThe FreeType Licenseまたは
+The GNU General Public License version 2とされています。
+
+*使い方
+→ 右にブロックを動かす
+← 左にブロックを動かす
+↓ 下にブロックを動かす
+↑ リスタート
+
